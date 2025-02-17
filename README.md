@@ -1,16 +1,33 @@
-This project is a frontend clone of Udemy, built using HTML, CSS, and Font Awesome. It features a  navigation bar, course categories, recommended courses, popular courses, and a footer section. The design closely mimics Udemy's layout, making it an excellent project for practicing UI development.
+# Udemy Clone - Online Course Platform  
 
-Features
-🔍 Search bar to explore courses
-📚 Categories section for easy navigation
-💰 Sale banner displaying promotional offers
-🎓 Recommended courses tailored for users
-⭐ Most popular courses section
-📑 Topics section with trending topics
-🛍️ Shopping cart and notifications icons
+This project is a frontend clone of Udemy, built using **HTML, CSS, and Font Awesome**. It features a **navigation bar, course categories, recommended courses, popular courses, and a footer section**. The design closely mimics Udemy's layout, making it an excellent project for practicing UI development.  
 
-Technologies Used
-HTML
-CSS
-Font Awesome (for icons)
-Google Fonts
+---
+
+## 🚀 Features  
+
+- 🔍 **Search bar** to explore courses  
+- 📚 **Categories section** for easy navigation  
+- 💰 **Sale banner** displaying promotional offers  
+- 🎓 **Recommended courses** tailored for users  
+- ⭐ **Most popular courses** section  
+- 📑 **Topics section** with trending topics  
+- 🛍️ **Shopping cart and notifications icons**  
+- 📱 **Responsive design** for recommended and course section
+
+---
+
+## 🛠️ Technologies Used  
+
+- **HTML**  
+- **CSS**  
+- **Font Awesome** (for icons)  
+- **Google Fonts**  
+
+---
+
+## 📌 How to Run the Project  
+
+1. **Clone the repository**  
+   ```sh
+   
